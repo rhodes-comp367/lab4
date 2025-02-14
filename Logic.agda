@@ -1,4 +1,4 @@
-module Prop where
+module Logic where
 
 -- ## Types
 
